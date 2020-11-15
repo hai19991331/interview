@@ -1,12 +1,12 @@
 # Interview
-#Install requirements 
+# Install requirements 
   ```
   sudo apt-get -y install mysql-server
   apt-get install python-dev libmysqlclient-dev
   pip install MySQL-python
   pip install -r requirements.txt
   ```
-#Changing database.cnf
+# Changing database.cnf
 
   ```
   {
